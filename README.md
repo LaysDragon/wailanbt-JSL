@@ -1,4 +1,4 @@
-wailanbt-JSL
+﻿wailanbt-JSL
 ============
 
 javascript function library for waila nbt
@@ -11,3 +11,4 @@ javascript function library for waila nbt
 計畫： 
 
 可以直接識別各種物品名稱的方法，並且能動態註冊物品名稱的產生方式 
+能夠將被tostring的nbt物件轉換回物件
